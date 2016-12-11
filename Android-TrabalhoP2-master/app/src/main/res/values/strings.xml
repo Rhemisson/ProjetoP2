@@ -1,0 +1,56 @@
+<resources>
+
+    <!--
+
+    Tela de login
+
+    -->
+
+    <string name="app_name">SIDED</string>
+    <string name="textViewBemVindo">Bem vindo ao Sistema de Estudos - SIDED</string>
+    <string name="hintDigiteSeuEmail">Digite seu usuário ou e-mail</string>
+    <string name="hintDigiteSuaSenha">Digite sua senha</string>
+    <string name="buttonAcessar">Acessar</string>
+    <string name="buttonLimpar">Limpar</string>
+    <string name="erroAutenticacao">Usuário ou senha inválidos.</string>
+
+    <!--
+
+    Tela tarefas
+
+    -->
+
+    <string name="textViewTarefa">Tarefas</string>
+    <string name="textViewSeleTare">Selecione a tarefa:</string>
+
+    <string name="textViewExecFeito">Exercício Feito?</string>
+    <string name="textViewLabEnv">Laboratório Enviado?</string>
+    <string name="buttonProgresso">Progresso</string>
+    <string name="buttonCadastro">Cadastro</string>
+    <string name="buttonSair">Sair</string>
+
+    <!--
+
+    Tela de progresso
+
+    -->
+
+    <string name="textViewProgresso">Progresso das aulas</string>
+    <string name="textViewProgAulas">Aulas dadas:</string>
+    <string name="textViewProgExecFeitos">Exercícios feitos:</string>
+    <string name="textViewProgLabsEnviados">Laboratórios enviados ao GitHub:</string>
+
+    <!--
+
+    Tela de cadastro
+
+    -->
+
+    <string name="textViewCadastro">Cadastro do Aluno</string>
+    <string name="hintCadNome">Nome</string>
+    <string name="hintCadMatricula">Matrícula</string>
+    <string name="hintCadMatEmail">E-mail</string>
+    <string name="hintCadMatConta">Conta GitHub</string>
+    <string name="buttonCadCadastrar">Cadastrar</string>
+
+</resources>
